@@ -1,0 +1,10 @@
+---
+title: "AM_Tools_Fall2024"
+author: "Aiden Maddux"
+format: html
+editor: visual
+---
+
+## Writing assignment 1
+
+Pauly et al. (1998) "Fishing down marine food webs" was a highly "disruptive" paper because it challenged how we previously thought about marine fish stocks and the ways they should be managed. The authors highlighted a trend that humans were depleting highly valuable predatory species and were continuously moving down the tropic level to less valuable, smaller, and more common species. Before this paper many fish stocks were managed on a single species level. This paper brought attention to ecosystem level disturbances that can occur from specific fishing trends. I would also consider Free et al. (2019) "Impacts of historical warming on marine fisheries production" to be a "disruptive" paper. This paper quantified the effects of climate change on fish stocks and found the majority of these stocks were in decline due to a warming climate. Many papers have speculated on the impacts of future warming on fish populations. However, Free et al. quantified these losses based on temperature modeling over the past 80 years. These quantitative papers give much more validity to climate change and help change policy. I would mostly agree with the paper discussed in class as it relates to my field. I believe there are fewer papers that are asking the harder to answer questions due to the greater influx in the sheer numbers of scientists and the amount of papers they are expected to produce. Ground breaking science takes time and a lot of resources which many reserchers do not have. I also believe due the narrowing scope of my field that papers may not reach outside of a specific subset of researcher which may create less impact.
