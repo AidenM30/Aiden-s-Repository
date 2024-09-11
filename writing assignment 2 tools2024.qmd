@@ -1,0 +1,10 @@
+---
+title: "AM_Tools_Fall2024"
+author: "Aiden Maddux"
+format: html
+editor: visual
+---
+
+## Writing assignment 2
+
+Within the field of fisheries management and research, computing tools and techniques has vastly increased the effectiveness of researchers. Tools such as R, ArcGIS, Excel, and PowerPoint now allow scientists to ask more complex questions and perform data analysis faster and more accurate. These tools also help relay information to the general public in a more consumable way. With these new computing techniques comes start up costs. The training required to learn these technologies can be cumbersome especially for those that have computed under a different workflow for most of their career. However the overall benefit of learning new computing tools and staying up to date with new technologies such as A.I is important for researchers to perform better science. New scientists such as myself have an advantage by being introduced to the latest technologies as they are entering the research world. Learning how to use these tools has been difficult but I had no other experience with older tools so no bad habits have been formed. I would not be able to do my research at the scope that it requires without these computing tools. I am hoping to stay up to date with the latest versions of these tools and any new tools that I believe may be helpful to me. I believe A.I. has massive potential to change the way we do computing and share information. I am excited to see where this takes science in general.
